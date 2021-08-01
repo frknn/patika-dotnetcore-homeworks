@@ -1,4 +1,4 @@
-# patika-dotnetcore-homeworks
-patika.dev adresindeki .Net Core patikasında ilerlerken ödevler için kullanacağım repo.
+# Object Oriented Programming Bölümü
+Bu bölümde .Net Core patikasının OOP Bölümündeki ödevleri paylaşacağım.
 
-Branch'lere göz atarak patikanın farklı bölümlerine gidebilirsiniz.
+Branch'lere göz atarak ödevlere bakabilirsiniz.
