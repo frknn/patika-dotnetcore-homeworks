@@ -23,4 +23,4 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 Draw.io sitesini kullanarak oluşturduğum UML diyagramı şu şekilde.
 
-![Hayvanat Bahçesi Yönetimi](https://i.hizliresim.com/94ctpqa.jpg)
+![Uçuş Yönetim Sistemi](https://i.hizliresim.com/94ctpqa.jpg)
